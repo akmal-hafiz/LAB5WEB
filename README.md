@@ -94,7 +94,7 @@
 </script>
 </code>
 </pre>
-<img src="" width="300" height="auto" alt="Langkah kelima: Operasi Aritmatika">
+<img src="Screenshot 2024-10-29 112716.png" width="300" height="auto" alt="Langkah kelima: Operasi Aritmatika">
 
 <h2>Hasil Langkah Kelima</h2>
 <p>Hasil dari langkah ini adalah menampilkan hasil penjumlahan dari variabel <code>a</code> dan <code>b</code> di halaman web.</p>
