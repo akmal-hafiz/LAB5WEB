@@ -28,7 +28,7 @@
 
 <h2>Hasil Langkah Pertama</h2>
 <p>Hasil dari langkah ini adalah menampilkan teks "Hello World" di halaman web dan di konsol browser.</p>
-<img src="" width="300" height="auto" title="Hasil Hello World" alt="Hasil langkah pertama: Hello World">
+<img src="Screenshot 2024-10-29 104005.png" width="300" height="auto" title="Hasil Hello World" alt="Hasil langkah pertama: Hello World">
 
 <h1>Langkah Kedua: Menggunakan Eksternal JavaScript</h1>
 <p align="justify">
