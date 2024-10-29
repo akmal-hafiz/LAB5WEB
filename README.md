@@ -58,10 +58,10 @@
 </script>
 </code>
 </pre>
-<img src="" width="300" height="auto" alt="Langkah ketiga: window.alert">
+<img src="Screenshot 2024-10-29 104131.png" width="300" height="auto" alt="Langkah ketiga: window.alert">
 
 <h2>Hasil Langkah Ketiga</h2>
-<p>Hasil dari langkah ini adalah munculnya kotak dialog "Selamat datang di JavaScript!" setiap kali halaman dibuka.</p>
+<p>Hasil dari langkah ini adalah munculnya kotak dialog "ini merupakan pesan untuk anda" setiap kali halaman dibuka.</p>
 
 <h1>Langkah Keempat: Menggunakan Prompt</h1>
 <p align="justify">
