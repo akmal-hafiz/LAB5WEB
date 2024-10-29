@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Validasi</title>
+    <script>
+        function validateForm() {
+            let nama = document.forms["myForm"]["nama"].value;
+            let email = document.forms["myForm"]["email"].value;
+            let usia = document.forms["myForm"]["usia"].value;
+            let emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/;
+
+            if (nama == "") {
+                alert("Nama harus diisi!");
+                return false;
+            }
+
+            if (email == "") {
+                alert("Email harus diisi!");
+                return false;
+            } else if (!emailPattern.test(email)) {
+                alert("Format email tidak valid!");
+                return false;
+            }
+
+            if (usia == "" || isNaN(usia)) {
+                alert("Usia harus diisi dengan angka!");
+                return false;
+            }
+
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <h2>Form Validasi</h2>
+    <form name="myForm" onsubmit="return validateForm()" method="post">
+        Nama: <input type="text" name="nama"><br><br>
+        Email: <input type="text" name="email"><br><br>
+        Usia: <input type="text" name="usia"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
