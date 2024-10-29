@@ -75,7 +75,7 @@
 </script>
 </code>
 </pre>
-<img src="" width="300" height="auto" alt="Langkah keempat: Prompt">
+<img src="Screenshot 2024-10-29 104517.png" width="300" height="auto" alt="Langkah keempat: Prompt">
 
 <h2>Hasil Langkah Keempat</h2>
 <p>Hasil dari langkah ini adalah munculnya kotak dialog untuk memasukkan nama, dan kemudian nama yang dimasukkan akan ditampilkan di halaman web.</p>
