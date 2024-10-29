@@ -115,7 +115,7 @@
 </script>
 </code>
 </pre>
-<img src="" width="300" height="auto" alt="Langkah keenam: If-Else">
+<img src="Screenshot 2024-10-29 113143.png" width="300" height="auto" alt="Langkah keenam: If-Else">
 
 <h2>Hasil Langkah Keenam</h2>
 <p>Hasil dari langkah ini adalah menampilkan status kelulusan berdasarkan nilai yang diberikan.</p>
